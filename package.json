@@ -1,0 +1,11 @@
+{
+  "name": "javascript-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate for javascript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markas Kvitka",
+  "license": "ISC"
+}
