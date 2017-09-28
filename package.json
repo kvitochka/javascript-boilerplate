@@ -4,12 +4,18 @@
   "description": "Boilerplate for javascript projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "author": "Markas Kvitka",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^3.6.0"
+    "css-loader": "^0.28.7",
+    "csv-loader": "^2.1.1",
+    "file-loader": "^0.11.2",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.6.0",
+    "xml-loader": "^1.2.1"
   },
   "dependencies": {
     "lodash": "^4.17.4"

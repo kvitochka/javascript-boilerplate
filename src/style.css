@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('./fonts/JosefinSlab-Light.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('./fonts/JosefinSlab-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('./fonts/JosefinSlab-SemiBold.ttf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Josefin Slab';
+    src: url('./fonts/JosefinSlab-Bold.ttf');
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+strong {
+    font-weight: 600;
+}
+
+b, h1 {
+    font-weight: 700;
+}
+
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Josefin Slab', serif;
+    font-weight: 400;
+}
+
+.container img {
+    height: 200px;
+    width: 200px;
+}
