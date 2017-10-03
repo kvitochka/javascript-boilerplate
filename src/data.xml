@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<featured>
-    <language>JavaScript</language>
-    <bundler>Webpack</bundler>
-    <lib>Lodash</lib>
-</featured>

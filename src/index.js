@@ -1,8 +1,5 @@
-import './style.css'
-import Logo from './logo.png'
-import Data from './data.xml'
-
-console.log(Data)
+import '~~/style.css'
+import Logo from '~/assets/logo.png'
 
 function component() {
   const element = document.createElement('div')
